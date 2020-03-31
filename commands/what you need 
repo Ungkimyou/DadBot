@@ -1,0 +1,12 @@
+const Discord = require("discord.js");
+
+
+module.exports.run = async (bot, message, args) => {
+// Add the code under   
+
+}
+
+module.exports.help = {
+//type the name of the command but you dont have too
+  name: "sample"
+}
